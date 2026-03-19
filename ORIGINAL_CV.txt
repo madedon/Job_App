@@ -1,0 +1,86 @@
+<Original_CV>
+DIMITRIOS TSELIOS
+Frisco, TX 75035 | +1 469 562 3045 | dimitrios.tselios@gmail.com | https://www.linkedin.com/in/dimitriostselios076/
+
+TELECOMMUNICATIONS PROJECT DIRECTOR
+Experienced technology executive with a strong background in technology services, network engineering, and customer success within high-stakes environments. Forged strong executive and C-level relationships to influence decision-making, secure €15M+ in annual revenues, and consistently exceed profitability targets. Built and mentored diverse, high-performing teams using Lean Six Sigma and Agile methods, achieving significant productivity gains, revenue growth, and improved retention. Advanced cloud adoption and AI-native automation to strengthen network performance, reduce compliance risk by 20%, and elevate customer trust. Successfully led initiatives that reduced outages to sub-hour resolutions and accelerated deployment cycles from 60 days to 8 days, and achieving significant cost savings valued in the millions. Recognized for translating complex business requirements into scalable solutions that deliver quantifiable operational, financial, and customer satisfaction outcomes.
+
+SKILLS
+Strategic Leadership, Business Development,& Intelligence, Stakeholder Management, Executive Communication, Budgeting & Forecasting, AI and Machine Learning, Predictive Analytics, Vendor & Contract Management (SLA/SoW), RFx Orchestration & Proposal Management (RFI/RFP/RFQ), AI-Native Automation, Cloud Computing AWS Azure Google Cloud, Data Governance, Data Science, Data Lake and Lakehouse Architectures, DevOps, CI/CD, Python, SQL, n8n, Zapier, MCP server, AI agents, Snowflake, Product Analytics, Tableau, PowerBI, API/SDK Management & Integration, OKRs & KPI, Network Performance Optimization, 4G/5G Networks, User Research & UX Collaboration, RAN and OSS/BSS Solutions, Product Management, Jira, GitHub/GitLab, Process Optimization, Cost Reduction, Lean Six Sigma, Scaled Agile (SAFe) & Kanban, Scrum & Change Management, Dependency & Release Management, Resource & Workforce Planning, Innovation Leadership, Data Privacy & Regulatory Compliance GDPR, Portfolio & Governance, Product Strategy & Road mapping, Go-to-Market (GTM), Pricing & Packaging, P&L Ownership.
+
+PROFESSIONAL EXPERIENCE
+
+AI Consultant, Demeter Operations AI, Plano Texas, Nov 2024 - Current
+Hands-on AI automation specialist who designs, builds, and maintains end-to-end AI agents and workflows for small businesses, primarily using n8n alongside modern LLM and agent frameworks. I partner with founders and operational leaders to identify high-impact automation opportunities across sales, support, operations, and marketing, then translate those needs into robust multi-step AI workflows that integrate CRMs, ticketing tools, databases, and third-party APIs through n8n nodes, triggers, and custom logic.
+Beyond building, I own the full lifecycle, scoping and solution design, data and API integration, agent orchestration, testing, reliability and monitoring, and continuous optimization based on clear KPIs like response time, error rates, and cost per transaction.
+My core skills include deep expertise in n8n and workflow automation, strong API and integration capabilities, practical experience with LLMs and prompt engineering, and enough engineering proficiency (e.g., JavaScript/Python) to script custom nodes and handle edge cases.
+On the consulting side, I bring structured discovery, process mapping, and change-management skills, helping small companies prioritize realistic AI use cases, de-risk adoption, and embed automations into daily operations through documentation and training so teams actually use the agents we deploy.
+
+Engineering Services Readiness Director, Ericsson, Plano Texas, Mar 2020 – Nov 2024
+Provide executive leadership oversight for the Network Design Optimization Cognitive Software and global product research teams, translating strategy into operational discipline, and achieving productivity, cost reduction, and innovation milestones for internal and external stakeholders.
+Serve as the proactive, trusted single point of contact for critical customer escalations driving operational excellence in network performance, leveraging strong communication skills and vendor management to escalate, resolve, and report issues against SLA/KPI benchmarks.
+Architect and operationalize customer performance assessment frameworks that identify strategic consulting opportunities, fuel insights for sales growth and adopted to organizational OKRs that consistently exceeded client satisfaction targets by an average of 10%.
+Integrate strategic planning, quarterly business review improvements, and data‑driven decision-making practices to drive cross‑functional alignment, embed innovation mindset, and elevate delivery standards across Engineering, Operations, and Customer Account functions.
+Mentor and lead high‑performing Professional Services and Practice Network Performance Excellence teams using Lean Six Sigma and Agile/Scrum methodologies to deliver outstanding productivity improvements, cost‑neutral or cost‑saving strategies valued in the millions and drive exceptional employee engagement and retention outcomes.
+Champion collaboration and facilitate agile transformation by mentoring talent, nurturing stakeholder buy‑in, fostering cross‑functional teamwork, and embedding an inclusive, accountable and growth‑oriented culture that reflects Ericsson’s core values of Respect, Professionalism, Perseverance, and Integrity.
+Spearhead strategic service readiness initiatives across the Market Area North America network engineering services organization, optimizing service operations efficiency and delivering measurable customer value, including reducing system downtime from multi‑day outages to sub‑hour resolution windows, significantly boosting network performance metrics.
+Design, deploy, and operationalize a rigorous data governance and compliance framework in collaboration with IT, legal, and compliance leaders, elevating data integrity, reducing compliance risk by 40 %, reinforcing trust, and strengthening internal audit posture.
+Defines department objectives and identifies and addresses group development needs to create high performance software development organization.
+Harness deep expertise in cloud technologies (AWS, Azure, Google Cloud) to accelerate deployment of AI‑native automation tools, trimming project delivery cycles dramatically, from 60 days to 8 days.
+
+Global Engagement Leader / Project Director, Ericsson, Plano Texas, May 2017 - Mar 2020
+Own the full lifecycle of high-impact global engagements including, defining scope and resource orchestration to budget oversight and performance tracking, delivering against quantifiable metrics and ROI targets.
+As an active member of Global Ericsson team, I have influence senior-management decision-making by seamlessly translating operator business requirements into Ericsson’s Service & Networks strategy, ensuring measurable strategic impact and stakeholder buy-in creating new business opportunities.
+Drive product innovation via ML/AI use-case definition and rapid prototyping (e.g., T-Mobile 2020), using agile methodologies that unlock new business and strategic growth opportunities.
+Orchestrate C-level stakeholder alignment and reduce customer complaints by 30% through a targeted performance taskforce (e.g., Bharti 2019), embedding a premium experience while tracking improvement in complaint metrics.
+Navigate complex telecom ecosystems (e.g., Rogers 2018) as the primary Ericsson interface, effectively managing change, conflict resolution, and critical issue mitigation to ensure smooth execution of Net Sales of €3M and with profitability margin of 38%.
+Enhance go-to-market impact (e.g., Expert Analytics T-Mobile 2017) by shaping NDO service models on the EEA platform, driving framework features that elevate end-user experience and operational effectiveness across the network.
+Demonstrate strong financial and analytical stewardship, tracking project performance, forecasting outcomes, maintaining budget discipline, and aligning delivery with quantifiable metrics.
+Exhibit dynamic leadership and global stakeholder engagement, fostering cross-functional collaboration, leading regional and R&D teams, influencing through empathy, “soft power”, and cultural fluency.
+Thrive in ambiguous, fast-paced environments, adopting an entrepreneurial mindset and agile approach to problem-solving, swiftly adapting to priorities and delivering high-impact results.
+Leverage change-management and global customer-centric strategies to enhance synergy across diverse markets and drive scalable outcomes, while continuously embedding innovation and continuous improvement into every engagement.
+
+Head of Services Line Optimize, Ericsson, Algiers Algeria, May 2016 - May 2017
+Leading the Service Line Optimize function within Network Services Customer Unit Algeria, in this role I have deliver transformative, customer-centric outcomes, working with a culturally diverse, high-impact team, shaping the future of operations through measurable results.
+Lead and inspire a multicultural team of 35 professionals, embedding a performance culture that consistently surpasses Net Sales of €15M targets, leveraging executive engagement and consultative leadership to influence C-level outcomes, positioning Ericsson as a trusted strategic partner.
+Define and execute a dynamic service-line optimization department strategy, translating emerging technology trends into scalable, value-driving offerings, ensuring alignment with customer business objectives, embedding innovation in delivery models that elevate efficiency and agility.
+Architect and operationalize a robust department KPI framework, including financial, operational, utilization, billability, absorption that drove proactive decisions to improve department P&L, regional profitability and underpin compelling business cases.
+Champion resource planning and head-count forecasting with financial rigor, balancing affordability and capability to realize budget and utilization targets, while introducing offshore delivery structure in the organization pyramid.
+Determines and manages staffing strategy and plan (# of FTEs, skills needed, depth of experience, internal and external staffing mix) consistent with the needs of the department.
+Lead Solution Architects and Network Engineering experts through the end-to-end implementation of performance improvement initiatives, driving cross-organizational collaboration and accelerating transformation in the new offshore delivery model and service excellence.
+Serve as a consultative thought leader, anticipating customer needs, positioning Ericsson’s services as solutions to real-world challenges, shaping the trajectory of our optimized delivery portfolios through compelling narrative and business outcomes.
+Foster a culture of continuous improvement and data-driven execution, using periodic performance reviews and financial dashboards to track transformation progress, refine delivery models, and pivot with agility.
+
+Senior Solution Architect, Ericsson, Athens Greece, Jan 2014 - May 2016
+Designed and delivered fully end-to-end telecom solutions, seamlessly integrating Wi-Fi access selection and LTE/Wi-Fi convergence, enabling a 55 % reduction in handover time and driving enhanced user experience across multivendor architectures.
+Architected, cost-modeled and risk-mitigated RAN consolidation solutions for network sharing that unlocked €2M in cost savings and 16% coverage acceleration, validated via field measurements
+Translated business specifications into commercially viable proposals, actively leading solution workshops, authoring Statements of Work, shaping budgets and resource planning to deliver high-stake projects on time, under budget, with zero post-launch escalations.
+Spearheaded migration strategy for legacy networks, embedding cloud-native principles and enabling future-proof system architecture, enhancing scalability and reliability, while aligning with emerging 5G/OSS-BSS frameworks.
+Championed AI/ML-driven optimization and DevOps-oriented automation (Python scripting, container orchestration), accelerating deployment cycles and reducing manual intervention by 20%.
+Demonstrated strong strategic leadership, stakeholder management and presales acumen, delivering persuasive presentations to executive audiences, contributing measurable revenue growth and securing official Ericsson recognition
+
+RAN Customer Solution Manager, Ericsson, Algiers Algeria, Jul 2012 - Jan 2014
+Championed product sales and services delivery for the customer unit, ensuring seamless RAN product and services execution while guiding the local solutions team toward excellence in solution delivery.
+Generated €15 M in annual revenue by leveraging both core and emerging product solutions and effectively communicating Ericsson’s Added Value (Total Cost of Ownership) to align operator decision‑making with profitability.
+Defined RAN solutions and articulated business requirements across the project lifecycle (Ooredoo 2013), spanning from presales through successful customer handover, using strategic leadership and collaborative teamwork to ensure alignment and continuity. (Coverage license requirement, Algeria 2014).
+Served as the subject matter expert accountable for project specifications, Statements of Compliance (SoC), service descriptions, and KPI impact analysis, meticulously aligning solutions with customers’ business requirements. (Mobilis)
+Directed end‑to‑end RFQ/tender response orchestration, HLD/LLD solution dimensioning, and competitive positioning, delivering technically robust proposals that optimized Total Cost of Ownership and operator adoption. (MarocTell)
+Spearheaded pre‑sales technical engagements, guiding high‑level stakeholder presentations and responding to C‑level clarifications, driving alignment around new products with clear ROI narratives.
+Coached local teams in consultative solution-selling and cross‑functional collaboration, cultivating a high-performance, customer‑centric mindset throughout presales and deployment stages.
+Streamlined proposal architecture and documentation processes, balancing agility with governance to synchronize sales, delivery, and product teams toward unified objectives.
+
+EDUCATION
+Technical Certification Program, Data Science and Machine Learning: Making Data-Driven Decisions, MIT - Schwarzman College of Computing, Feb 2025 - Jun 2025
+Master, Electronic and Mobile Communications, University of Glamorgan, Cardiff UK, Sep 2000 - Sep 2001
+Bachelor, Electronics and Communication Engineering, University of Glamorgan, Cardiff UK, Sep 1996 - Sep 2000
+
+CERTIFICATION
+ISC2 Certified Information Systems Security Professional (CISSP) Cert Prep, March 2025
+Lean Six Sigma Yellow Belt, Ericsson Certification Program, October 2024
+Certified Scrum Master SMC, Ericsson Certification Program, October 2022
+Certified Senior Solution Architect, Ericsson Global Certification Program, April 2014
+Certified Experience Solution Architect, Ericsson Global Certification Program, January 2010
+
+RECOGNITIONS
+Recognized as Ericsson Key Contributor for Exceptional Performance for multiple years.
+</Original_CV>

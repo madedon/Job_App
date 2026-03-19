@@ -1,0 +1,95 @@
+DIMITRIOS TSELIOS
+Frisco, TX 75035 | +1 469-562-3045 | dimitrios.tselios@gmail.com | linkedin.com/in/dimitriostselios076
+
+DIRECTOR, AI AND DIGITAL TRANSFORMATION | ENTERPRISE PROGRAM DELIVERY AND STRATEGIC TECHNOLOGY INITIATIVES
+
+Transformation program leader with 14+ years driving large-scale digital and Artificial Intelligence initiatives across global enterprise organizations — from AI automation consulting to cloud platform modernization, from strategy definition to measurable delivery outcomes. At Ericsson, led the end-to-end digital transformation of the Engineering Services delivery model, deploying cloud-native platforms, embedding AI and Machine Learning automation into operational workflows, and building the governance infrastructure that made transformation durable. Currently leading AI automation programs for enterprise clients as an independent consultant — designing agentic AI workflows, integrating cloud data platforms, and delivering measurable process improvements across operations. Proven ability to align cross-functional executives, navigate complex stakeholder environments, and translate technology strategy into programs that ship. MIT-certified in Data Science and Machine Learning; Certified Scrum Master; Scaled Agile Framework certified; Lean Six Sigma Yellow Belt.
+
+SKILLS
+
+AI and Digital Transformation — Agentic AI Program Design and Delivery, AI Workflow Automation, Digital Transformation Strategy, Organizational Change Management, Technology Modernization Roadmaps, Innovation Program Governance, Executive Alignment and Sponsorship, Cross-Functional Program Leadership
+
+Cloud and Technology Platforms — Amazon Web Services, Microsoft Azure, Google Cloud Platform, Cloud-Native Architecture, Hybrid Cloud Migration, DevOps, Continuous Integration and Continuous Delivery, Python, SQL, Data Science, Machine Learning
+
+Program Delivery and Governance — Multi-Year Enterprise Program Management, Dependency Management, Risk Identification and Mitigation, Compliance and Governance Frameworks, Standard Operating Procedures, Continuous Improvement, OKRs and KPI Tracking
+
+Stakeholder Leadership — Executive Communication (C-Suite), Cross-Functional Collaboration, Vendor and Partner Management, Federated Matrix Organization Leadership, Technical and Non-Technical Audience Communication
+
+Agile Methodologies, Scaled Agile Framework, Scrum, Lean Six Sigma, Jira, Confluence, Microsoft Project
+
+
+PROFESSIONAL EXPERIENCE
+
+AI Consultant, Demeter Operations AI, Plano, Texas, November 2024 - Present
+
+Designed and delivered AI automation programs for enterprise clients — building agentic AI workflows that replace manual operational processes with intelligent, cloud-integrated automation, reducing processing time and operational overhead across client environments.
+
+Defined transformation strategy for each engagement — identifying high-value automation targets, sequencing delivery phases, and aligning client stakeholders on ROI outcomes and adoption milestones.
+
+Managed end-to-end program delivery across multiple concurrent client engagements — coordinating technical dependencies, vendor integrations, and cloud platform deployments while maintaining quality and governance standards throughout each lifecycle.
+
+Applied rigorous documentation and traceability standards — ensuring all AI program deliverables met compliance, audit, and operational resilience requirements by default.
+
+
+Engineering Services Readiness Director, Ericsson, Plano, Texas, March 2020 - November 2024
+
+Led the digital transformation of the Engineering Services delivery model for North America — defining and executing a multi-year program to migrate the Network Design Optimization cognitive software platform to Amazon Web Services, Microsoft Azure, and Google Cloud Platform, while embedding AI and automation capabilities across delivery operations.
+
+Architected the transformation roadmap — aligning executive stakeholders, defining success metrics, sequencing workstreams, and governing delivery across cloud migration, tooling modernization, and operational process redesign, compressing deployment cycles from 60 days to 8 days.
+
+Built and deployed a compliance and governance framework that reduced organizational risk by 40% — embedding documentation standards, audit controls, and traceability into every transformation workstream, ensuring regulatory alignment across technology and business operations.
+
+Drove AI and Machine Learning capability adoption in collaboration with engineering and architecture teams — translating strategic AI priorities into executable delivery plans with clear milestones, dependencies, and stakeholder accountability.
+
+Secured executive sponsorship and maintained C-level alignment throughout the transformation program — communicating program status, risk posture, and strategic trade-offs to Chief-level stakeholders across a federated matrix organization.
+
+Coordinated third-party vendors, cloud architecture partners, and internal engineering teams — managing all contracts, technical prerequisites, and delivery obligations across a complex multi-vendor transformation ecosystem.
+
+
+Global Engagement Leader and Project Director, Ericsson, Plano, Texas, May 2017 - March 2020
+
+Led strategic technology transformation programs for T-Mobile, Bharti Airtel, and Rogers Communications — translating enterprise transformation objectives into structured delivery programs with executive alignment and cross-functional governance.
+
+Drove AI and Machine Learning automation deployment for T-Mobile (2020) — designing the technology adoption roadmap, coordinating cloud architecture decisions, and delivering measurable automation outcomes with full stakeholder visibility.
+
+Delivered Rogers Communications (2018) transformation program — EUR 3M in net sales at 38% profitability margin through disciplined program governance, risk mitigation, and multi-geography vendor coordination.
+
+
+Head of Services Line Optimize, Ericsson, Algiers, Algeria, May 2016 - May 2017
+
+Led a 35-person organization with full P&L accountability — driving service delivery transformation across a EUR 15M annual portfolio, introducing an offshore delivery model, and developing the governance standards that enabled scalable, compliant operations.
+
+
+Senior Solution Architect, Ericsson, Athens, Greece, January 2014 - May 2016
+
+Designed cloud-native and hybrid architecture solutions achieving a 55% reduction in handover time and EUR 2M in cost savings — combining Total Cost of Ownership modeling, automation deployment, and continuous improvement discipline across multi-vendor delivery environments.
+
+
+RAN Customer Solution Manager, Ericsson, Algiers, Algeria, July 2012 - January 2014
+
+Generated EUR 15M in annual revenue through technically grounded solution delivery and executive-level stakeholder engagement across Ooredoo, Mobilis, and Maroc Telecom.
+
+
+EDUCATION
+
+Technical Certification Program, Data Science and Machine Learning: Making Data-Driven Decisions
+Massachusetts Institute of Technology, Schwarzman College of Computing, February 2025 - June 2025
+
+Master of Science, Electronic and Mobile Communications
+University of Glamorgan, Cardiff, United Kingdom, September 2000 - September 2001
+
+Bachelor of Engineering, Electronics and Communication Engineering
+University of Glamorgan, Cardiff, United Kingdom, September 1996 - September 2000
+
+
+CERTIFICATIONS
+
+ISC2 Certified Information Systems Security Professional Preparation, March 2025
+Lean Six Sigma Yellow Belt, Ericsson Certification Program, October 2024
+Certified Scrum Master, Ericsson Certification Program, October 2022
+Certified Senior Solution Architect, Ericsson Global Certification Program, April 2014
+
+
+RECOGNITIONS
+
+Recognized as Ericsson Key Contributor for Exceptional Performance, multiple years

@@ -1,0 +1,28 @@
+commit	weighted_f1	filter_rate	recall	status	description
+28506f3	0.979730	0.625000	1.000000	keep	baseline — 3 FPs: Deckers, Wells Fargo x2
+d88e534	0.993151	0.875000	1.000000	keep	exp1: expired posting date detection — catches Wells Fargo x2
+908fa3b	1.000000	1.000000	1.000000	keep	exp2: fashion/retail/apparel industry detection — catches Deckers Brands
+01f4c5b	1.000000	1.000000	1.000000	keep	exp3: tighten seniority 3-5/2-5yr with senior title safeguard
+16acd1d	1.000000	1.000000	1.000000	keep	exp4: expand relocation cities with more tech hubs
+6137003	1.000000	1.000000	1.000000	keep	exp5: improved non-DFW onsite — JD body scan + dedup fix
+fb79040	1.000000	1.000000	1.000000	keep	exp6: expand onsite signals — relocate, no remote, office-based
+3faa7b6	1.000000	1.000000	1.000000	keep	exp7: no-relocation + non-DFW location detection
+3ec65b9	1.000000	1.000000	1.000000	keep	exp8: expand finance system terms list
+32ee753	1.000000	1.000000	1.000000	keep	exp9: add internship/co-op to seniority rule
+89b3119	1.000000	1.000000	1.000000	keep	exp10: add part-time only detection rule
+ba95c91	1.000000	1.000000	1.000000	keep	exp11: expand contract signals — temp, freelance, short-term
+88102cc	1.000000	1.000000	1.000000	keep	exp12: move datetime import to module level (cleanup)
+9afeccc	1.000000	1.000000	1.000000	keep	exp13: expand PMP mandatory patterns
+f186790	1.000000	1.000000	1.000000	keep	exp14: numeric date format parsing for posting end dates
+nocommit	0.972222	1.000000	0.965517	discard	exp15: standalone "expired" too aggressive — FN introduced
+35dc093	1.000000	1.000000	1.000000	keep	exp16: safer expired — em-dash and posting-context patterns
+dd0985b	1.000000	1.000000	1.000000	keep	exp17: expand security clearance patterns
+6d55945	1.000000	1.000000	1.000000	keep	exp18: add K-12/education domain credentials rule
+6e252b2	1.000000	1.000000	1.000000	keep	exp19: add wrong-function detection (SWE, accountant, HR)
+421b8ca	1.000000	1.000000	1.000000	keep	exp20: international-only city detection (APAC/EMEA onsite)
+3177d25	1.000000	1.000000	1.000000	keep	exp21: expand wrong-function titles
+5de03c3	1.000000	1.000000	1.000000	keep	exp22: niche industry mismatch detection
+039c602	1.000000	1.000000	1.000000	keep	exp23: expand closed/filled signals
+b451251	1.000000	1.000000	1.000000	keep	exp24: expand end date patterns
+nocommit	0.993151	0.875000	1.000000	discard	exp25a: CPA/CFA in PMP rule broke Hilltop detection
+1e29d8c	1.000000	1.000000	1.000000	keep	exp25: CPA/CFA as separate rule (fixed)

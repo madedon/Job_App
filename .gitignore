@@ -1,0 +1,24 @@
+# Secrets — NEVER commit
+.env
+credentials.json
+token.json
+token_drive.json
+
+# Temporary files
+.tmp/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Generated application outputs (keep archetypes, ignore individual apps)
+applications/20*

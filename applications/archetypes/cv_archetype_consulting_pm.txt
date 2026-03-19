@@ -1,0 +1,93 @@
+DIMITRIOS TSELIOS
+Frisco, TX 75035 | +1 469-562-3045 | dimitrios.tselios@gmail.com | linkedin.com/in/dimitriostselios076
+
+SENIOR PROGRAM MANAGER | CLIENT-FACING CONSULTING DELIVERY, AI AND CLOUD PLATFORM PROGRAMS
+
+Consulting program manager with 14+ years delivering complex technology programs for enterprise clients across telecommunications, AI, and cloud platforms — combining deep technical expertise with client-facing delivery leadership, multi-engagement portfolio management, and measurable business outcomes. At Ericsson, led strategic consulting engagements for T-Mobile, Rogers Communications, and Bharti Airtel, owning program delivery end-to-end across multi-geography, multi-vendor environments. Currently delivering AI automation consulting programs independently — managing multiple concurrent client engagements, translating business requirements into executable delivery plans, and driving adoption of Artificial Intelligence and cloud platform capabilities across enterprise client operations. Proven track record of building client trust, navigating ambiguous problem spaces, and shipping outcomes that clients recognize as transformative. MIT-certified in Data Science and Machine Learning; Certified Scrum Master; Scaled Agile Framework certified; Lean Six Sigma Yellow Belt.
+
+SKILLS
+
+Consulting Program Delivery — Client Engagement Management, Multi-Client Portfolio Management, Statement of Work Scoping, Program Strategy and Roadmap, Delivery Governance, Client Status Reporting and Escalation Management, Executive Relationship Management, Consulting Revenue Generation
+
+AI and Technology Platforms — Agentic AI Automation, Cloud Platforms (AWS, Azure, GCP), Data Platform Delivery (Snowflake, BigQuery, Databricks), API Integration and Deployment, Python, SQL, DevOps, Cloud-Native Architecture
+
+Program Execution — Cross-Functional Team Leadership, Dependency Management, Risk Identification and Mitigation, Compliance and Governance Frameworks, Agile and Scaled Agile Delivery, Lean Six Sigma, Change Management
+
+Client and Stakeholder Leadership — Executive Communication (C-Suite and VP), Technical and Business Audience Translation, Cross-Functional Alignment, Vendor and Partner Coordination, Multi-Geography Delivery
+
+Scrum, Scaled Agile Framework, Lean Six Sigma, Jira, Confluence, Microsoft Project, Microsoft Excel
+
+
+PROFESSIONAL EXPERIENCE
+
+AI Consultant, Demeter Operations AI, Plano, Texas, November 2024 - Present
+
+Delivered AI automation consulting programs for multiple enterprise clients simultaneously — defining engagement scope, managing delivery timelines, coordinating technical dependencies, and driving measurable automation outcomes across cloud-integrated client environments.
+
+Served as the primary client interface across all engagements — translating complex AI capabilities into actionable delivery plans, managing client expectations, and building the trust required to navigate ambiguous transformation challenges.
+
+Applied rigorous program governance and documentation standards — maintaining traceability, compliance alignment, and quality control across all client deliverables by default.
+
+Operated with full autonomy across a multi-client consulting portfolio — demonstrating the independent judgment, executive communication, and delivery discipline required to succeed without internal support structure.
+
+
+Global Engagement Leader and Project Director, Ericsson, Plano, Texas, May 2017 - March 2020
+
+Led strategic consulting delivery for T-Mobile, Bharti Airtel, and Rogers Communications — owning program strategy, stakeholder management, dependency governance, and executive communication across multi-year, multi-geography client engagements.
+
+Delivered Rogers Communications (2018) as the sole client-facing delivery leader — EUR 3M net sales at 38% profitability margin through precise scope management, risk mitigation, and coordinated multi-geography team execution.
+
+Led AI and Machine Learning consulting program for T-Mobile (2020) — translating client business requirements into cloud architecture decisions and executable delivery roadmaps, achieving full adoption of automated ML workflows within planned timeline.
+
+Managed client relationships at the executive level — navigating competing stakeholder priorities, communicating program status and risks with transparency, and maintaining client confidence throughout complex, multi-phase delivery programs.
+
+
+Engineering Services Readiness Director, Ericsson, Plano, Texas, March 2020 - November 2024
+
+Led large-scale platform modernization and cloud migration program as the primary internal consulting lead — managing a EUR multi-million transformation portfolio, coordinating cross-functional delivery teams, and delivering measurable operational outcomes for the North America Engineering Services organization.
+
+Defined program strategy, delivery roadmap, and governance framework for cloud migration of the Network Design Optimization cognitive software platform to AWS, Azure, and GCP — compressing deployment cycles from 60 days to 8 days and delivering millions in cost savings.
+
+Built and deployed a compliance governance framework that reduced organizational risk by 40% — establishing audit trails, documentation standards, and regulatory alignment across all delivery workstreams.
+
+Managed third-party vendor relationships and technology partner integrations — coordinating delivery obligations, managing contract compliance, and ensuring all technical prerequisites were met on schedule.
+
+
+Head of Services Line Optimize, Ericsson, Algiers, Algeria, May 2016 - May 2017
+
+Led a 35-person consulting services organization with full P&L ownership — managing EUR 15M annual program portfolio, introducing an offshore delivery model, and building governance and documentation standards that scaled delivery operations across multiple client accounts.
+
+
+Senior Solution Architect, Ericsson, Athens, Greece, January 2014 - May 2016
+
+Designed cloud-native and hybrid architecture consulting solutions achieving a 55% reduction in handover time and EUR 2M in cost savings — combining customer discovery, Total Cost of Ownership modeling, and automation deployment across complex multi-vendor client environments.
+
+
+RAN Customer Solution Manager, Ericsson, Algiers, Algeria, July 2012 - January 2014
+
+Generated EUR 15M in annual consulting revenue through technically grounded solution delivery and executive-level client engagement across Ooredoo, Mobilis, and Maroc Telecom.
+
+
+EDUCATION
+
+Technical Certification Program, Data Science and Machine Learning: Making Data-Driven Decisions
+Massachusetts Institute of Technology, Schwarzman College of Computing, February 2025 - June 2025
+
+Master of Science, Electronic and Mobile Communications
+University of Glamorgan, Cardiff, United Kingdom, September 2000 - September 2001
+
+Bachelor of Engineering, Electronics and Communication Engineering
+University of Glamorgan, Cardiff, United Kingdom, September 1996 - September 2000
+
+
+CERTIFICATIONS
+
+ISC2 Certified Information Systems Security Professional Preparation, March 2025
+Lean Six Sigma Yellow Belt, Ericsson Certification Program, October 2024
+Certified Scrum Master, Ericsson Certification Program, October 2022
+Certified Senior Solution Architect, Ericsson Global Certification Program, April 2014
+
+
+RECOGNITIONS
+
+Recognized as Ericsson Key Contributor for Exceptional Performance, multiple years

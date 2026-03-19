@@ -1,0 +1,14 @@
+# Google API (Gmail + Drive)
+google-api-python-client>=2.0
+google-auth-httplib2>=0.1
+google-auth-oauthlib>=1.0
+
+# Excel processing
+openpyxl>=3.1
+pandas>=1.5
+
+# PDF generation
+fpdf2>=2.7
+
+# Environment variables
+python-dotenv>=1.0

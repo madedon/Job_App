@@ -1,0 +1,93 @@
+DIMITRIOS TSELIOS
+Frisco, TX 75035 | +1 469-562-3045 | dimitrios.tselios@gmail.com | linkedin.com/in/dimitriostselios076
+
+SENIOR PRODUCT MANAGER | AI PRODUCTS, PLATFORM STRATEGY, AND ENTERPRISE PRODUCT DELIVERY
+
+Product leader with 14+ years bringing technology products to market across cloud platforms, AI automation, and enterprise software — combining deep technical fluency with customer-centric product thinking, strategic roadmap ownership, and cross-functional delivery execution. At Ericsson, led the product strategy and platform modernization of the Network Design Optimization cognitive software, translating customer and market requirements into a cloud-native product roadmap adopted across enterprise telecommunications customers in North America. Currently building and delivering AI-powered automation products for enterprise clients as an independent consultant — from 0-to-1 product conception through deployment and adoption. Strong track record of aligning engineering, design, and business stakeholders on product direction, managing competing priorities, and shipping products that generate measurable customer outcomes. MIT-certified in Data Science and Machine Learning; Certified Scrum Master; Scaled Agile Framework certified.
+
+SKILLS
+
+Product Management — Product Strategy and Vision, 0-to-1 Product Development, Product Roadmap Planning and Prioritization, Customer Discovery and Requirements Definition, Product-Market Fit Analysis, Go-to-Market Planning, OKR and KPI Definition, Feature Scoping and Trade-Off Analysis
+
+AI and Technology — Agentic AI Product Design, Cloud Platform Products (AWS, Azure, GCP), API Products and Developer Experience, Data Science and Machine Learning, Python, SQL, Cloud-Native Architecture, DevOps
+
+Delivery and Execution — Cross-Functional Program Leadership, Agile Product Development, Dependency Management, Release Planning, Stakeholder Alignment and Executive Communication, Risk Management
+
+Customer and Market Insight — Customer Interviews and Discovery, Competitive Analysis, Enterprise Customer Advocacy, Technical and Non-Technical Audience Communication, Voice of Customer Programs
+
+Scaled Agile Framework, Scrum, Lean Six Sigma, Jira, Confluence, Microsoft Project
+
+
+PROFESSIONAL EXPERIENCE
+
+AI Consultant and Product Lead, Demeter Operations AI, Plano, Texas, November 2024 - Present
+
+Defined and delivered AI product solutions for enterprise clients — leading product discovery, requirements definition, and end-to-end delivery of agentic AI automation workflows integrated with cloud data platforms and APIs.
+
+Managed the full product lifecycle from customer discovery through deployment — conducting stakeholder interviews, defining product requirements, sequencing feature delivery, and measuring adoption outcomes against agreed success metrics.
+
+Operated as the primary customer interface across multiple concurrent product engagements — translating complex technical capabilities into clear product narratives and adoption plans aligned to client business outcomes.
+
+
+Engineering Services Readiness Director / Product Platform Lead, Ericsson, Plano, Texas, March 2020 - November 2024
+
+Led the product strategy and platform evolution of the Network Design Optimization cognitive software — defining the cloud-native product roadmap, prioritizing feature delivery, and aligning engineering and architecture teams on product direction across a multi-year modernization program.
+
+Drove product adoption at enterprise scale — compressing customer deployment cycles from 60 days to 8 days by redesigning delivery workflows and eliminating platform friction, directly improving customer satisfaction and time-to-value.
+
+Defined and enforced product governance standards — establishing documentation, compliance, and audit requirements embedded into all product releases, reducing organizational risk by 40%.
+
+Translated enterprise customer requirements into actionable product roadmap items — working across engineering, architecture, legal, and compliance stakeholders to prioritize the right features and sequence delivery for maximum customer impact.
+
+Secured executive product sponsorship and maintained C-level alignment — communicating product strategy, roadmap trade-offs, and delivery status clearly to Chief-level stakeholders across a federated enterprise organization.
+
+Managed vendor and partner integrations as core product components — coordinating third-party technology providers, defining integration requirements, and ensuring product quality across the full technology stack.
+
+
+Global Engagement Leader / Senior Product Manager, Ericsson, Plano, Texas, May 2017 - March 2020
+
+Owned product delivery for strategic enterprise customers — T-Mobile, Bharti Airtel, and Rogers Communications — translating customer product requirements into delivery programs with clear milestones, measurable outcomes, and executive alignment.
+
+Led AI and Machine Learning product adoption for T-Mobile (2020) — defining the product roadmap for ML automation deployment, coordinating engineering delivery, and achieving full customer adoption of cloud-native AI capabilities.
+
+Delivered EUR 3M in product revenue for Rogers Communications (2018) at 38% profitability margin through disciplined product scoping, risk management, and multi-geography delivery execution.
+
+
+Head of Services Line Optimize, Ericsson, Algiers, Algeria, May 2016 - May 2017
+
+Led product and service delivery for a EUR 15M annual portfolio — managing a 35-person team, defining service product standards, and introducing delivery model improvements that scaled operations while maintaining quality.
+
+
+Senior Solution Architect / Product Designer, Ericsson, Athens, Greece, January 2014 - May 2016
+
+Designed cloud-native and hybrid product solutions achieving a 55% reduction in handover time and EUR 2M in cost savings — combining customer insight, architecture design, and Total Cost of Ownership modeling to deliver high-value product outcomes.
+
+
+RAN Customer Solution Manager, Ericsson, Algiers, Algeria, July 2012 - January 2014
+
+Generated EUR 15M in annual revenue through technically grounded solution delivery and executive-level customer engagement across Ooredoo, Mobilis, and Maroc Telecom.
+
+
+EDUCATION
+
+Technical Certification Program, Data Science and Machine Learning: Making Data-Driven Decisions
+Massachusetts Institute of Technology, Schwarzman College of Computing, February 2025 - June 2025
+
+Master of Science, Electronic and Mobile Communications
+University of Glamorgan, Cardiff, United Kingdom, September 2000 - September 2001
+
+Bachelor of Engineering, Electronics and Communication Engineering
+University of Glamorgan, Cardiff, United Kingdom, September 1996 - September 2000
+
+
+CERTIFICATIONS
+
+ISC2 Certified Information Systems Security Professional Preparation, March 2025
+Lean Six Sigma Yellow Belt, Ericsson Certification Program, October 2024
+Certified Scrum Master, Ericsson Certification Program, October 2022
+Certified Senior Solution Architect, Ericsson Global Certification Program, April 2014
+
+
+RECOGNITIONS
+
+Recognized as Ericsson Key Contributor for Exceptional Performance, multiple years
